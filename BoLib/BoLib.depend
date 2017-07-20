@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1500561161 source:e:\git\bolib\bolib\bolib\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bstring.h"
+
+1500560432 e:\git\bolib\bolib\bolib\bstring.h
+	"btype.h"
+	<string.h>
+
+1500561119 source:e:\git\bolib\bolib\bolib\bstring.c
+	"bstring.h"
+
+1500560408 e:\git\bolib\bolib\bolib\btype.h
+
